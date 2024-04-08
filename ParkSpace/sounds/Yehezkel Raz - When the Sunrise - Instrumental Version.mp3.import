@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Yehezkel Raz - When the Sunrise - Instrumental Version.mp3-2a081cc9fe6191835dbd8fdaee3cedbf.mp3str"
+
+[deps]
+
+source_file="res://sounds/Yehezkel Raz - When the Sunrise - Instrumental Version.mp3"
+dest_files=[ "res://.import/Yehezkel Raz - When the Sunrise - Instrumental Version.mp3-2a081cc9fe6191835dbd8fdaee3cedbf.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
